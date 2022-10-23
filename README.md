@@ -1,6 +1,10 @@
-### Hi, I'm Luisacny👋
 
-### ⚙️ TECH:
+
+
+                                                                    ### Hi, I'm Luisacny👋
+
+
+### ⚙️ Tech:
 ![HTML](https://imagizer.imageshack.com/img923/8532/JG8FsR.png)
 ![CSS](https://imagizer.imageshack.com/img924/6360/heqP2C.png)
 ![JavaScript](https://imagizer.imageshack.com/img922/8339/woHqHK.png)
@@ -16,7 +20,7 @@
 ![MySQL](https://imagizer.imageshack.com/img922/4548/YIK9lN.png)
 ![MongoDB](https://imagizer.imageshack.com/img923/4842/YeKNo0.png)
 
--->📬  How to reach me:
+-->📬 How to reach me:
 [![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)](www.linkedin.com/in/luisacny-baudin-front-end-develope)
 [![Portfolio](https://imagizer.imageshack.com/img924/1808/G2cyZh.png)](https://github.com/LuisacnyBaudin?tab=repositories)
 
