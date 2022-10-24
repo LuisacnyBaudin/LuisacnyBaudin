@@ -3,10 +3,13 @@
  
  Front-end Developer, from Laboratoria. <L>
 
- 🔭 I love everything that makes us evolve on a daily basis.
- 🤝 Contribute and grow
- 📚 Planning and dedication are essential factors.
- ⚡
+ -🔭 I love everything that makes us evolve on a daily basis.
+ 
+- 🤝 Contribute and grow
+ 
+- 📚 Planning and dedication are essential factors.
+
+-⚡
  
 
 
