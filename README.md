@@ -1,7 +1,13 @@
 
+ ### Hi, I'm Luisacny👋👩‍💻
+ 
+ Front-end Developer, from Laboratoria. <L>
 
-
-                                                                    ### Hi, I'm Luisacny👋
+ 🔭 I love everything that makes us evolve on a daily basis.
+ 🤝 Contribute and grow
+ 📚 Planning and dedication are essential factors.
+ ⚡
+ 
 
 
 ### ⚙️ Tech:
@@ -23,6 +29,7 @@
 -->📬 How to reach me:
 [![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)](www.linkedin.com/in/luisacny-baudin-front-end-develope)
 [![Portfolio](https://imagizer.imageshack.com/img924/1808/G2cyZh.png)](https://github.com/LuisacnyBaudin?tab=repositories)
+✉️ luisacbaudin@gmail.com
 
 
 
