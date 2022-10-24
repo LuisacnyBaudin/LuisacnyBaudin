@@ -30,7 +30,7 @@
 ![MongoDB](https://imagizer.imageshack.com/img923/4842/YeKNo0.png)
 
 -->📬 How to reach me:
-[![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)](www.linkedin.com/in/luisacny-baudin-front-end-develope)
+[![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)](https://www.linkedin.com/in/luisacny-baudin-front-end-developer/)
 [![Portfolio](https://imagizer.imageshack.com/img924/1808/G2cyZh.png)](https://github.com/LuisacnyBaudin?tab=repositories)
 ✉️ luisacbaudin@gmail.com
 
