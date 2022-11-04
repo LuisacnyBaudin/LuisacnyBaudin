@@ -9,7 +9,7 @@
  
 - 📚 Planning and dedication are essential factors.
  
-- ⚡
+- ⚡ I love to dance
  
 
 
